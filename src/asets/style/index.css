@@ -1,0 +1,167 @@
+
+body {
+    background-image: url("../image/back2.png");
+    background-repeat: repeat;
+    /*    background-color: black;*/
+}
+
+.container1 {
+    /*    border:1px solid white;*/
+}
+
+.h3 {
+    color: #00bf6f;
+}
+
+.head {
+    /*    border:1px solid black;*/
+    color: white;
+    margin-top: 20px;
+}
+
+.ardyoq {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.nsheq {
+    color: white;
+    /*  border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.img {
+    width: 225px;
+}
+
+.nsheq_ayn_barery {
+    color: white;
+    /*  border:1px solid black;*/
+    margin-top: 20px;
+}
+
+#hoverinp:hover {
+    background-color: grey;
+    cursor: pointer;
+    transition: 2s;
+}
+
+.first {
+    float: left;
+}
+
+.second {
+    float: left;
+    margin-left: 30px;
+}
+
+.button {
+    margin-top: 20px;
+    background-color: #00bf6f;
+    width: 82px;
+    height: 41px;
+    color: white;
+    outline: none;
+}
+
+.planavorum_eq {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.gnahateq {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.vorqan_jamanak {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.ardyoq_uneq {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+.ete_ayo {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+#input {
+    margin-left: 19px;
+}
+
+.xndrum_enq {
+    color: white;
+    /*    border:1px solid black;*/
+    margin-top: 20px;
+}
+
+#auto {
+    outline: none;
+}
+
+#done {
+    margin-top: 27px;
+    margin-left: 500px;
+    background-color: #00bf6f;
+    width: 82px;
+    height: 41px;
+    color: white;
+    outline: none;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #00bf6f;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+
+.teacher__image_block {
+    display: flex;
+    width: 60%;
+    justify-content: space-around
+
+}
+
+.teacher__image_block > img {
+
+    width: 15%;
+    height: 80%;
+}
+
+/*#highlight {*/
+/*	position: fixed;*/
+/*	top: 50%;*/
+/*	width: 100%;*/
+/*	background-color: #ccff00;*/
+/*	height: 30px;*/
+/*	z-index: -1;*/
+/*}*/
+
+/*
+
+.
+
+.scroll{
+    margin: 50vh 0;
+	font-size: 30px;
+	line-height: 30px;
+}
+*/
